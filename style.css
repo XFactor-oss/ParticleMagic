@@ -4,6 +4,4 @@ body {
   background: #000;
   font-family: 'Segoe UI', sans-serif;
 }
-#video {
-  display: none;
-}
+#video { display:none; }
